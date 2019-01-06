@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.5)  6 JAN 2019 18:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.5)  6 JAN 2019 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -91,194 +91,173 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(./lecture.aux)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count96
+\c@Blindtext=\count97
+\c@blind@countparstart=\count98
+\blind@countxx=\count99
+\blindtext@numBlindtext=\count100
+\blind@countyy=\count101
+\c@blindlist=\count102
+\c@blindlistlevel=\count103
+\c@blindlist@level=\count104
+\blind@listitem=\count105
+\c@blind@listcount=\count106
+\c@blind@levelcount=\count107
+\blind@mathformula=\count108
+\blind@Mathformula=\count109
+\c@blind@randomcount=\count110
+\c@blind@randommax=\count111
+\c@blind@pangramcount=\count112
+\c@blind@pangrammax=\count113
+) (./lecture.aux)
 \openout1 = `lecture.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 27--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 44--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 61--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 82--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 99--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 116--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
+Underfull \hbox (badness 10000) in paragraph at lines 135--149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--138
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3219) has occurred while \output is active []
 
  [1
 ! Undefined control sequence.
 <write> epstopf \epsfilename 
                              
-l.138 
+l.154 
       
 ? 
 runsystem(epstopf )...disabled (restricted).
@@ -286,26 +265,88 @@ runsystem(epstopf )...disabled (restricted).
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 155--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
+
+ []
+
 [2] (./lecture.aux) ) 
 Here is how much of TeX's memory you used:
- 760 strings out of 492649
- 8931 string characters out of 6129623
- 78075 words of memory out of 5000000
- 4704 multiletter control sequences out of 15000+600000
+ 943 strings out of 492649
+ 11930 string characters out of 6129623
+ 83458 words of memory out of 5000000
+ 4879 multiletter control sequences out of 15000+600000
  6098 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,8n,21p,219b,96s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,8n,21p,225b,96s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbxti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb>
-Output written on lecture.pdf (2 pages, 51666 bytes).
+fonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbxti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy7.pfb>
+Output written on lecture.pdf (2 pages, 77566 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 47 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
