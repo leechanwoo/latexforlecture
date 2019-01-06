@@ -1,0 +1,311 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.5)  6 JAN 2019 18:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lecture.tex
+(./lecture.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/minimal.cls
+Document Class: minimal 2001/05/25 Standard LaTeX minimal class
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
+\c@enums=\count80
+\widelabel=\dimen102
+\c@tempcnt=\count81
+\c@enumsi=\count82
+\eeindent=\dimen103
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tree-dvips/tree-dvips.sty
+tree-dvips version .91 of May 16, 1995
+\nodemargin=\dimen104
+\treelinewidth=\dimen105
+\dashlength=\dimen106
+\arrowwidth=\dimen107
+\arrowlength=\dimen108
+\arrowinset=\dimen109
+\pos@t=\toks14
+\pos@b=\toks15
+\pos@l=\toks16
+\pos@r=\toks17
+\pos@tl=\toks18
+\pos@tr=\toks19
+\pos@bl=\toks20
+\pos@br=\toks21
+\@arrow=\count83
+\@tempdimc=\dimen110
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen111
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count84
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count85
+\leftroot@=\count86
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count87
+\DOTSCASE@=\count88
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count89
+\c@MaxMatrixCols=\count90
+\dotsspace@=\muskip10
+\c@parentequation=\count91
+\dspbrk@lvl=\count92
+\tag@help=\toks23
+\row@=\count93
+\column@=\count94
+\maxfields@=\count95
+\andhelp@=\toks24
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks25
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(./lecture.aux)
+\openout1 = `lecture.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--138
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+! Undefined control sequence.
+<write> epstopf \epsfilename 
+                             
+l.138 
+      
+? 
+runsystem(epstopf )...disabled (restricted).
+
+Non-PDF special ignored!
+<special> header=tree-dvips91.pro
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] (./lecture.aux) ) 
+Here is how much of TeX's memory you used:
+ 760 strings out of 492649
+ 8931 string characters out of 6129623
+ 78075 words of memory out of 5000000
+ 4704 multiletter control sequences out of 15000+600000
+ 6098 words of font info for 22 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 27i,8n,21p,219b,96s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbxti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb>
+Output written on lecture.pdf (2 pages, 51666 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
