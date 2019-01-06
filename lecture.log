@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.5)  6 JAN 2019 20:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.5)  6 JAN 2019 22:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -136,193 +136,120 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--22
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--38
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--42
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--42
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--55
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--59
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--59
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--77
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--77
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--134
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--134
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--149
-
- []
-
-
-Underfull \vbox (badness 1275) has occurred while \output is active []
-
- [1
+[1
 ! Undefined control sequence.
 <write> epstopf \epsfilename 
                              
-l.160 
-      
+l.135 \end{equation}
+                     \\ \\
 ? 
 runsystem(epstopf )...disabled (restricted).
 
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 163--166
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--166
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--182
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--187
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--187
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--191
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--201
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--201
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--213
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--213
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 
  []
 
-[2] (./lecture.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+
+ []
+
+[3] (./lecture.aux) ) 
 Here is how much of TeX's memory you used:
- 943 strings out of 492649
- 11930 string characters out of 6129623
- 83458 words of memory out of 5000000
- 4879 multiletter control sequences out of 15000+600000
- 6098 words of font info for 22 fonts, out of 8000000 for 9000
+ 948 strings out of 492649
+ 11984 string characters out of 6129623
+ 85458 words of memory out of 5000000
+ 4882 multiletter control sequences out of 15000+600000
+ 7142 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,8n,21p,225b,96s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,21n,21p,225b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbxti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
@@ -332,11 +259,13 @@ nts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy7.pfb>
-Output written on lecture.pdf (2 pages, 79345 bytes).
+msy7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
+7.pfb>
+Output written on lecture.pdf (3 pages, 98353 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 58 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
