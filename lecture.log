@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.5)  6 JAN 2019 19:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.5)  6 JAN 2019 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -251,13 +251,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--149
  []
 
 
-Underfull \vbox (badness 3219) has occurred while \output is active []
+Underfull \vbox (badness 1275) has occurred while \output is active []
 
  [1
 ! Undefined control sequence.
 <write> epstopf \epsfilename 
                              
-l.154 
+l.160 
       
 ? 
 runsystem(epstopf )...disabled (restricted).
@@ -265,62 +265,52 @@ runsystem(epstopf )...disabled (restricted).
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 155--170
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--174
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--174
+Underfull \hbox (badness 10000) in paragraph at lines 167--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--196
+Underfull \hbox (badness 10000) in paragraph at lines 184--187
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--196
+Underfull \hbox (badness 10000) in paragraph at lines 184--187
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--196
+Underfull \hbox (badness 10000) in paragraph at lines 188--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--211
+Underfull \hbox (badness 10000) in paragraph at lines 192--201
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--211
+Underfull \hbox (badness 10000) in paragraph at lines 192--201
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--211
+Underfull \hbox (badness 10000) in paragraph at lines 202--213
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--215
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--215
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--215
+Underfull \hbox (badness 10000) in paragraph at lines 202--213
 
  []
 
@@ -343,7 +333,7 @@ s/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/c
 msy7.pfb>
-Output written on lecture.pdf (2 pages, 77566 bytes).
+Output written on lecture.pdf (2 pages, 79345 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
